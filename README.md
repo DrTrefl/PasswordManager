@@ -46,6 +46,7 @@ from cryptography.hazmat.primitives.kdf.pbkdf2 import PBKDF2HMAC
 ```bash
 git clone https://github.com/DrTrefl/PasswordManager.git
 cd PasswordManager
+cd src
 ```
 
 2. Install required libraries
